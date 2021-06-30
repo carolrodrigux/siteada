@@ -83,11 +83,15 @@ a{
   margin: 0 89px;
 }
 
+input{
+  border-radius: 3px;
+}
+
 button{
   background: #41f341;
   border: 1px solid transparent;
   padding: 2px 20px;
-  border-radius:3px;
+  border-radius:5px;
 }
 
 footer{
