@@ -1,7 +1,7 @@
 body{
   text-align:center;
   font-family:Open Sans,sans-serif;
-  background-color:#8A71C9;
+  background-color:rgb(154, 134, 204);
   color:#ffffff; 
   margin: 0; 
 }
@@ -88,4 +88,8 @@ button{
   border: 1px solid transparent;
   padding: 2px 20px;
   border-radius:3px;
+}
+
+footer{
+  margin: 50px 0; 
 }
