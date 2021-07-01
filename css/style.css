@@ -1,9 +1,9 @@
 body{
   text-align:center;
   font-family:Open Sans,sans-serif;
-  background-color:rgb(154, 134, 204);
+  background: linear-gradient(to right, rgb(154, 128, 221), rgb(154, 225, 238));
   color:#ffffff; 
-  margin: 0; 
+  margin: 0;
 }
 
 h2{
